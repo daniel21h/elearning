@@ -1,4 +1,4 @@
-# e.learning
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79bf5d50-7199-4f2f-b330-abf84eb5e996%2Ffrontend-cover.png?table=block&id=6d1d7f09-5182-450c-949a-eb9308f31d57&width=2730&userId=e395da12-7977-49b8-ade1-93403d2f4db0&cache=v2)
 
 ## :pencil: Description
 
